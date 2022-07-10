@@ -1,0 +1,10 @@
+.login__bg{
+    background-image: url(https://iconarchive.com/download/i91933/icons8/windows-8/User-Interface-Login.ico);
+    margin-top: 3px;
+    padding: 5px;
+    height:80vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
